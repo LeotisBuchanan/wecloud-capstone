@@ -1,4 +1,4 @@
-name: airflow-tutorial
+name: airflow-wecloud
 channels:
 - !!python/unicode
   'defaults'
